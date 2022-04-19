@@ -1,0 +1,20 @@
+body {
+  background-color: #D6E6F2
+}
+
+hr {
+  color: #52616B;
+  background-color: #D6E6F2;
+  border-style: none none dotted none;
+  border-width: 5px;
+  height: 2px;
+  width: 5%;
+}
+
+h1 {
+  color: #1E2022;
+}
+
+h2 {
+  color: #48466D;
+}
