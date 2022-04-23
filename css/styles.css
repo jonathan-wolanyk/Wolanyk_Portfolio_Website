@@ -24,9 +24,10 @@ h3 {
 }
 
 hr {
-  color: #444444;
+  color: #9AD0EC;
+  border-style: none dotted none, none;
   border-bottom-color: #D6E0F0;
-  border-top: dashed 3px;
+  border-top: dotted 15px;
   background-color: #D6E0F0;
   margin-top: 50px;
   margin-bottom: 50px;
@@ -55,6 +56,11 @@ a {
   border-bottom: solid;
   border-width: 25px;
   border-color: #83BD75;
+}
+
+.bottom_container {
+  background-color: #9AD0EC;
+  width: 100%;
 }
 
 
