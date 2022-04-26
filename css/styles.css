@@ -39,6 +39,11 @@ hr {
 
 a {
   color: #069A8E;
+  font-size: 2rem;
+}
+
+p {
+  font-size: 2rem;
 }
 
 /* ************************** CLASS SELECTORS ************************** */
